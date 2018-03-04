@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSunchaser.Mars.Domain", "TheSunchaser.Mars.Domain\TheSunchaser.Mars.Domain.csproj", "{1C33BA15-2DB9-4D0E-ADE9-0110B4E5200A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSunchaser.Mars.Common", "TheSunchaser.Mars.Common\TheSunchaser.Mars.Common.csproj", "{A81484F7-50EF-41D4-869D-3EB6AD29DC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSunchaser.Mars.DomainTests", "TheSunchaser.Mars.DomainTests\TheSunchaser.Mars.DomainTests.csproj", "{FE8F3ECD-6B3A-4202-9B80-AD0D801E304A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSunchaser.Mars.Services", "TheSunchaser.Mars.Services\TheSunchaser.Mars.Services.csproj", "{7F187822-437E-471A-8D4C-72527D2C1DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSunchaser.Mars.ServicesTests", "TheSunchaser.Mars.ServicesTests\TheSunchaser.Mars.ServicesTests.csproj", "{24431C3C-E4D9-4F1F-8BF5-90C1C67CBBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C33BA15-2DB9-4D0E-ADE9-0110B4E5200A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C33BA15-2DB9-4D0E-ADE9-0110B4E5200A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C33BA15-2DB9-4D0E-ADE9-0110B4E5200A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C33BA15-2DB9-4D0E-ADE9-0110B4E5200A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81484F7-50EF-41D4-869D-3EB6AD29DC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81484F7-50EF-41D4-869D-3EB6AD29DC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81484F7-50EF-41D4-869D-3EB6AD29DC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81484F7-50EF-41D4-869D-3EB6AD29DC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8F3ECD-6B3A-4202-9B80-AD0D801E304A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8F3ECD-6B3A-4202-9B80-AD0D801E304A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8F3ECD-6B3A-4202-9B80-AD0D801E304A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8F3ECD-6B3A-4202-9B80-AD0D801E304A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F187822-437E-471A-8D4C-72527D2C1DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F187822-437E-471A-8D4C-72527D2C1DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F187822-437E-471A-8D4C-72527D2C1DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F187822-437E-471A-8D4C-72527D2C1DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24431C3C-E4D9-4F1F-8BF5-90C1C67CBBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24431C3C-E4D9-4F1F-8BF5-90C1C67CBBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24431C3C-E4D9-4F1F-8BF5-90C1C67CBBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24431C3C-E4D9-4F1F-8BF5-90C1C67CBBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043F50F0-191D-4A87-8382-1FB8684168F1}
+	EndGlobalSection
+EndGlobal
