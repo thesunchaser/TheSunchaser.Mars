@@ -1,7 +1,13 @@
+
 # TheSunchaser.Mars
 Mars Rover Project
 
 This project contains a simple implementation of the Mars Rover coding test.
+
+The project is currently "headless" and requires a front end application.
+Otherwise use Visual Studio Test to execute the RoverServiceTests.ParseInputTest.
+
+
 
 
 The test brief is as follows:
